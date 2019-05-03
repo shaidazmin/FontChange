@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Font Change</string>
+    <string name="one">A public API for this project can be found here - thanks to DigitalOcean for helping us provide this service!
+
+For information on contributing to this project, please see the contributing guide.</string>
+</resources>
